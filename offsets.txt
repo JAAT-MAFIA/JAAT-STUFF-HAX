@@ -11,3 +11,4 @@
 #ActorArray_Offset=0xa1018ac
 #Render_Offset=0xDD944C8
 #BT_Offset=0x695C9B4
+#ProcessEvent_Offset=0x8605ff8
