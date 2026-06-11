@@ -1,7 +1,0 @@
-# ═══════════════════════════════════════════════════════════════
-#  JAAT STUFF — Kill Switch
-#  1 = Sab features instantly band
-#  0 = Normal (sab chalta hai)
-# ═══════════════════════════════════════════════════════════════
-
-KillSwitch=0
