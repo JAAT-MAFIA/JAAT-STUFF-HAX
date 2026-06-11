@@ -1,0 +1,99 @@
+# ═══════════════════════════════════════════════════════════════
+#  JAAT STUFF — GitHub Remote Config File
+#  Apne GitHub repo mein yeh file rakho (public repo recommended)
+#  Raw URL: https://raw.githubusercontent.com/USER/REPO/main/config.txt
+# ═══════════════════════════════════════════════════════════════
+# Rules:
+#   - '#' se shuru lines = comments (ignore hoti hain)
+#   - Key=Value format
+#   - 0 = OFF,  1 = ON
+#   - Hex offsets 0x prefix ke saath likhein
+# ═══════════════════════════════════════════════════════════════
+
+# 🔴 KILL SWITCH — 1 karo to SARE features band ho jaate hain
+KillSwitch=0
+
+# ───────────────────────────────────────────────────────────────
+#  🟢 ESP
+# ───────────────────────────────────────────────────────────────
+Esp_Line=1
+Esp_Box=1
+Esp_Skeleton=1
+Esp_Health=1
+Esp_Name=1
+Esp_Distance=1
+Esp_TargetLine=1
+Esp_ItemEsp=0
+Esp_ItemRange=50.0
+Veh_Name=1
+Veh_Health=1
+Veh_Fuel=0
+World_LootBox=1
+World_SafeZone=0
+World_RedZone=0
+
+# ───────────────────────────────────────────────────────────────
+#  🔵 BulletTrack
+# ───────────────────────────────────────────────────────────────
+Bt_Enable=1
+Bt_Mode=2
+Bt_Range=500.0
+Bt_Fov=180.0
+Bt_Chance=100
+Bt_VisCheck=1
+Bt_IgnoreKnock=1
+Bt_IgnoreBot=0
+Bt_AutoFire=1
+Bt_MagicStart=0
+Bt_TeleportHit=0
+Bt_ExplosiveBow=0
+Bt_Full360=1
+Bt_BrutalSmooth=1.0
+Bt_HeadChance=18
+Bt_MissChance=5
+Bt_FireSpeed=0
+Bt_FireSpeedValue=0.07
+Bt_ScopeOn=0
+Bt_AimDistanceADS=120.0
+Bt_AimDistanceHip=50.0
+Bt_BrutalHeadOffset=0.0
+Bt_LegitHeadOffset=0.0
+Bt_TeleportOffset=2.0
+Bt_ExplosiveRadius=30.0
+
+# ───────────────────────────────────────────────────────────────
+#  🟡 Aimbot
+# ───────────────────────────────────────────────────────────────
+Aim_Enable=0
+Aim_Fov=160.0
+Aim_Range=300.0
+Aim_VisCheck=1
+Aim_IgnoreKnock=1
+Aim_IgnoreBot=0
+Aim_RecoilSet=0.0
+
+# ───────────────────────────────────────────────────────────────
+#  🟠 Memory / Misc
+# ───────────────────────────────────────────────────────────────
+Mem_MagicBullet=0
+Mem_Magic_X=120.0
+Mem_Magic_Y=120.0
+Mem_Magic_Z=170.0
+Mem_InstantHit=0
+Mem_InstantHitDilation=3.0
+Mem_WeaponDilation=0.3
+Mem_AutoParachute=0
+Mem_AutoParachuteMode=1
+Mem_AutoParachuteSpeed=1.5
+Mem_WideView=0
+Mem_WideViewRange=120.0
+
+# ───────────────────────────────────────────────────────────────
+#  🔧 Live Offset Patch (game update hone par sirf yeh badlo!)
+#  Hex values — 0x prefix zaroor daalo
+# ───────────────────────────────────────────────────────────────
+#GName_Offset=0x8394964
+#GUObject_Offset=0xe22f8d0
+#ActorArray_Offset=0xa1018ac
+#Render_Offset=0xDD944C8
+#BT_Offset=0x695C9B4
