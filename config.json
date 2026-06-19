@@ -1,5 +1,5 @@
 {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "kill_switch": false,
         "kill_message": "This lib has been temporarily disabled by the owner.\n\nContact on Telegram for updates.",
         "update_msg": "A new version is available! Download the latest update from the button below.",
