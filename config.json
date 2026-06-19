@@ -1,8 +1,8 @@
 {
-      "version": "1.0.0",
-      "kill_switch": false,
-      "kill_message": "This lib has been temporarily disabled by the owner.\n\nContact on Telegram for updates.",
-      "update_msg": "A new version is available! Download the latest update from the button below.",
-      "notice": "",
-      "download_url": ""
+        "version": "1.0.0",
+        "kill_switch": false,
+        "kill_message": "This lib has been temporarily disabled by the owner.\n\nContact on Telegram for updates.",
+        "update_msg": "A new version is available! Download the latest update from the button below.",
+        "notice": "",
+        "download_url": "https://github.com/JAAT-MAFIA/JAAT-STUFF-HAX/releases/download/v1.0.1/libjaat.so"
 }
