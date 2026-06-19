@@ -1,7 +1,8 @@
 {
-    "version": "1.1.0",
-    "kill_switch": false,
-    "kill_message": "JAAT STUFF HAX has been temporarily disabled by the owner.\n\nCome back later or contact on Telegram.",
-    "update_msg": "New update available! Download from:\ngithub.com/JAAT-MAFIA/JAAT-STUFF-HAX",
-    "notice": ""
+      "version": "1.0.0",
+      "kill_switch": false,
+      "kill_message": "This lib has been temporarily disabled by the owner.\n\nContact on Telegram for updates.",
+      "update_msg": "A new version is available! Download the latest update from the button below.",
+      "notice": "",
+      "download_url": ""
 }
