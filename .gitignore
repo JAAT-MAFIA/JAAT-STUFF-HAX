@@ -1,0 +1,4 @@
+# Ignore local injector binaries and scripts in Deploy
+JAATSTUFFInjector*
+inject_auto*
+*.bat
