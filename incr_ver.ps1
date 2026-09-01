@@ -7,6 +7,13 @@ if (Test-Path $VersionFile) {
     $ver = "1.0"
 }
 
+# If version is set to 1.0, preserve 1.0
+if ($ver -eq "1.0") {
+    Set-Content -Path $VersionFile -Value "1.0" -NoNewline
+    Write-Output "1.0"
+    exit 0
+}
+
 # Parse and increment minor version
 $parts = $ver -split '\.'
 $major = [int]$parts[0]
