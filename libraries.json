@@ -1,1 +1,6 @@
-{"version": "1.20", "link": "https://raw.githubusercontent.com/JAAT-MAFIA/JAAT-STUFF-HAX/main/libCoderX.so"}
+﻿{
+  "version"   : "1.21",
+  "link"      : "https://raw.githubusercontent.com/JAAT-MAFIA/JAAT-STUFF-HAX/main/libCoderX.so",
+  "inj_arm64" : "https://raw.githubusercontent.com/JAAT-MAFIA/JAAT-STUFF-HAX/main/JAATSTUFFInjector",
+  "inj_x86"   : "https://raw.githubusercontent.com/JAAT-MAFIA/JAAT-STUFF-HAX/main/JAATSTUFFInjector_x86"
+}
